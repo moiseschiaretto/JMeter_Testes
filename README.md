@@ -42,7 +42,7 @@
 
     - **Filename:** caminho do arquivo.CSV
  
-    - **Exemplo:** C:/jmeter_testes/Dados_Login.csv
+    - **Exemplo:** C:/jmeter_testes/Projeto1_Login/Dados_Login.csv
  
     - **Variable Names:** os nomes das variáveis que serão utilizadas, por exemplo, em uma requisição HTTP (POST Login).
  
@@ -50,6 +50,8 @@
  
 ![05_Configuracoes_dos_dados_CSV](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/21d91717-29ae-4252-93bb-4bd166b6153d)
 
+
+![16_Dados_Login_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/2fd9d765-db45-4163-b85d-c4c4532e7d1a)
 
 
 ## Adicionar um grupo "GET"
