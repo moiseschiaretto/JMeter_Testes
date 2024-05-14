@@ -20,7 +20,7 @@
 
 
 
-## Criar o "Plano de Teste"
+## Criar o "Plano de Testes"
 
 - Dentro do **Plano de Testes** será inserido todas os cenários de execuções de desempenho, carga e análise de resultados.
 
