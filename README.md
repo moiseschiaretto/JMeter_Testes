@@ -92,7 +92,7 @@
 
 ## Adicionar um grupo "POST"
 
-  - O grupo **POST** é para organizar todas as **requisições HTTP com o método POST.
+  - O grupo **POST** é para organizar todas as **requisições HTTP com o método POST.**
 
 ![09_Grupo_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/3e3a8db5-9ef0-4625-a086-22305413f241)
 
