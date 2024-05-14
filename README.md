@@ -138,7 +138,7 @@
 
 ## Adicionar "Ver Árvore de Resultados"
 
-  - Resultado da execução considerando **3 (três) Threads,, conforme na imagem e tópico acima "Grupo de Usuários".**
+  - Resultado da execução considerando **3 (três) Threads, conforme na imagem e tópico acima "Grupo de Usuários".**
 
   - Contém o campo com o nome **Number of Threads (users):** onde pode ser informado **a quantidade de usuários para a simulação de login** do site Web especificado.
 
@@ -147,7 +147,7 @@
 
 ## Adicionar "Relatório de Sumário"
 
-  - No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 3 (três) testes, informados em **"Grupo de Usuários".**
+  - No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 3 (três) testes, informados em **"Grupo de Usuários",** campo com o nome **Number of Threads (users).**
 
 ![20_Grade_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/cbecc5ee-e54c-4dd0-8b42-eb7911761b38)
 
@@ -177,7 +177,7 @@
 ![02_Resultados_Asserts_GET_POST_30_Threads](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/80135cc7-6929-4d28-95fd-b0531f43b673)
 
 
-- No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 30 (trinta) testes, informados em **"Grupo de Usuários".**
+- No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 30 (trinta) testes, informados em **"Grupo de Usuários",** campo com o nome **Number of Threads (users).**
 
 ![22_Grade_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/91ccc22e-f353-4b47-a68b-811a4fe6cb2d)
 
