@@ -116,7 +116,25 @@
 
 ![11_Assert_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/276e4184-1348-4b52-b3db-62699c865424)
 
- 
+
+## Execução do "Plano de Testes"
+
+  - Utilizar o botão **"Start"** para executar o "Plano de Testes".
+
+  ![18_botao_Start](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/e003f4d6-64e6-403d-bdb7-94ec96f9a43d)
+
+  - Utilizar o botão **Clear All"** para limpar todos os resultados da execução.
+
+  ![19_Botao_Clear_All](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/ba438e1e-11b0-4cb7-bd99-f748054f1e5f)
+
+
+
+## Adicionar o "Assertion Results"
+
+  - Exibe o resultado de todas as asserções do "Plano de Testes", neste caso os métodos GET e POST.
+
+![12_Resultados_Asserts_GET_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/c9ba5cde-c09f-4424-8f60-9e7781b6a35d)
+
 
 ## Adicionar "Ver Árvore de Resultados"
 
