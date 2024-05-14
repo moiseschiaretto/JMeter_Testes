@@ -147,6 +147,16 @@
 
 ## Adicionar "Relatório de Sumário"
 
+  - No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 3 (três) testes, informados em **"Grupo de Usuários".**
+
+![20_Grade_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/cbecc5ee-e54c-4dd0-8b42-eb7911761b38)
+
+
+  - No canto superior direito da tela também é informado a  quantidade de vezes em que foram realizados os "testes de login", e os erros ocorridos.
+
+![21_Erros_Qtde_Execucoes](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/5b5a1782-9d02-4d6e-b09b-3480e7d0e807)
+
+
 ![14_Relatorio_Sumario](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/7a8d8a70-93e0-4fc4-ae82-02f91fbcf92c)
 
 
@@ -165,6 +175,16 @@
 
 
 ![02_Resultados_Asserts_GET_POST_30_Threads](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/80135cc7-6929-4d28-95fd-b0531f43b673)
+
+
+- No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 30 (trinta) testes, informados em **"Grupo de Usuários".**
+
+![22_Grade_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/91ccc22e-f353-4b47-a68b-811a4fe6cb2d)
+
+
+- No canto superior direito da tela também é informado a  quantidade de vezes em que foram realizados os "testes de login", e os erros ocorridos.
+
+![23_Erros_Qtde_Execucoes](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/24ec6ab4-89b1-4582-87b7-a9962568153e)
 
 
 ![03_Ver_Arvore_Resultados_30_Threads](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/1acff2c7-ba71-4f8d-8d70-49dd42bfdbd9)
