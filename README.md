@@ -59,7 +59,7 @@
   ![06_Grupo_GET](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/4d27f043-957c-4f05-8c55-dc90d724945f)
 
 
-## Adicionar a "Requisição HTTP (GET Login)"
+## Adicionar a "Requisição HTTP GET"
 
   - A **Requisição HTTP (GET Login)** contém as informações do site Web que será acessado para a realização dos testes, por exemplos:
 
@@ -97,7 +97,7 @@
 ![09_Grupo_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/3e3a8db5-9ef0-4625-a086-22305413f241)
 
 
-## Adicionar a "Requisição HTTP (POST Login)"
+## Adicionar a "Requisição HTTP POST"
   
   - Para entrar com os dados do **arquivo "Dados_Login.csv", que contém o CPF e a Senha de Login.**
 
@@ -133,6 +133,7 @@
 ## Adicionar "Relatório de Agregado"
 
 ![15_Relatorio_Agregado](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/a8446fe7-b693-46bd-bdbd-7e122fab4541)
+
 
 
 ## Considerando a Execução do "Plano de Testes" para "30 Threads"
