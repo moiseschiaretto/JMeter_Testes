@@ -50,7 +50,7 @@
  
 ![05_Configuracoes_dos_dados_CSV](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/21d91717-29ae-4252-93bb-4bd166b6153d)
 
-    - Arquivo "Dados_Login.csv", com **o CPF e a Senha dos Usuários.**
+  - Arquivo "Dados_Login.csv", com **o CPF e a Senha dos Usuários.**
 
 ![16_Dados_Login_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/2fd9d765-db45-4163-b85d-c4c4532e7d1a)
 
