@@ -123,7 +123,7 @@
 
   ![18_botao_Start](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/e003f4d6-64e6-403d-bdb7-94ec96f9a43d)
 
-  - Utilizar o botão **Clear All"** para limpar todos os resultados da execução.
+  - Utilizar o botão **"Clear All"** para limpar todos os resultados da execução, caso desejar.
 
   ![19_Botao_Clear_All](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/ba438e1e-11b0-4cb7-bd99-f748054f1e5f)
 
