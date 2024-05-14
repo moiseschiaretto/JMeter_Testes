@@ -82,7 +82,7 @@
 
 
 
-## Adicionar Response Assertion GET
+## Adicionar "Response Assertion GET"
 
   - Informar na assertiva do **método GET o status code igual a 200.**
 
@@ -107,7 +107,7 @@
 ![10_Requisicao_HTTP_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/50d90714-f9c4-4ddf-aa76-17c700da5f8d)
 
 
-# Adicionar Response Assertion POST
+# Adicionar "Response Assertion POST"
 
   - Informar na assertiva do **método POST o status code igual a 200.**
 
