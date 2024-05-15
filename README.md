@@ -14,7 +14,7 @@
 ![01_Logo_Apache_JMeter](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/eafb6c1d-9a94-42eb-af9d-321ba78d321a)
 
 
-![02_Logo_Apache_JMeter](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/7873c059-177d-4ee2-884a-04ed68c83cb1)
+  ![02_Logo_Apache_JMeter](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/7873c059-177d-4ee2-884a-04ed68c83cb1)
 
 
 ## Estrutura do Projeto "Login"
