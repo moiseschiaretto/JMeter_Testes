@@ -148,7 +148,7 @@
 ![13_Ver_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/cc24c0cb-e778-44d1-8880-1211a15c3961)
 
 
-## "Relatório de Sumário"
+## "Relatório de Sumário da Execução"
 
   - No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 3 (três) testes, informados em **"Grupo de Usuários",** campo com o nome **Number of Threads (users).**
 
