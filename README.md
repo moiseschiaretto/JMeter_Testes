@@ -206,7 +206,7 @@
 
 - Descrição das explicações de cada item da 'estrutura do projeto "API REST" desenvolvido' em Apache JMeter.
 
-- API REST conversão da Collection ou das Requisiçõe selecionadas do Postman (Loadium, Code) para o Apache JMeter, Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
+- API REST conversão da Collection ou das Requisições selecionadas do Postman (Loadium, Code) para o Apache JMeter, Testes de Regressão, Análise de Resultados.
 
 
 ## Estrutura do Projeto "API_REST"
