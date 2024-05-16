@@ -23,7 +23,7 @@
 
 
 
-## Criar o "Plano de Testes"
+## "Plano de Testes"
 
 - Dentro do **Plano de Testes** será inserido todas os cenários de execuções de desempenho, carga e análise de resultados.
 
@@ -31,7 +31,7 @@
 
 
 
-## Adicionar o "Grupo de Usuários"
+## "Grupo de Usuários"
 
   - Contém o campo com o nome **Number of Threads (users):** onde pode ser informado **a quantidade de usuários para a simulação de login** do site Web especificado.
 
@@ -39,7 +39,7 @@
 
 
 
-## Adicionar a "Configuração dos dados CSV"
+## "Configuração dos dados CSV"
 
 - Contém as configurações indicando basicamente:
 
@@ -58,14 +58,14 @@
 ![16_Dados_Login_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/2fd9d765-db45-4163-b85d-c4c4532e7d1a)
 
 
-## Adicionar um grupo "GET"
+## Grupo "GET"
 
   - O grupo **GET** é para organizar todas as **requisições HTTP com o método GET.
 
   ![06_Grupo_GET](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/4d27f043-957c-4f05-8c55-dc90d724945f)
 
 
-## Adicionar a "Requisição HTTP GET"
+## "Requisição HTTP GET"
 
   - A **Requisição HTTP (GET Login)** contém as informações do site Web que será acessado para a realização dos testes, por exemplos:
 
@@ -88,7 +88,7 @@
 
 
 
-## Adicionar "Response Assertion GET"
+## "Response Assertion GET"
 
   - Informar na assertiva do **método GET o status code igual a 200.**
 
@@ -96,14 +96,14 @@
 
 
 
-## Adicionar um grupo "POST"
+## Grupo "POST"
 
   - O grupo **POST** é para organizar todas as **requisições HTTP com o método POST.**
 
 ![09_Grupo_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/3e3a8db5-9ef0-4625-a086-22305413f241)
 
 
-## Adicionar a "Requisição HTTP POST"
+## "Requisição HTTP POST"
   
   - Para entrar com os dados do **arquivo "Dados_Login.csv", que contém o CPF e a Senha de Login.**
 
@@ -113,7 +113,7 @@
 ![10_Requisicao_HTTP_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/50d90714-f9c4-4ddf-aa76-17c700da5f8d)
 
 
-# Adicionar "Response Assertion POST"
+# "Response Assertion POST"
 
   - Informar na assertiva do **método POST o status code igual a 200.**
 
@@ -132,14 +132,14 @@
 
 
 
-## Adicionar o "Assertion Results"
+## "Assertion Results"
 
   - Exibe o resultado de todas as asserções do "Plano de Testes", neste caso os métodos GET e POST.
 
 ![12_Resultados_Asserts_GET_POST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/c9ba5cde-c09f-4424-8f60-9e7781b6a35d)
 
 
-## Adicionar "Ver Árvore de Resultados"
+## "Ver Árvore de Resultados"
 
   - Resultado da execução considerando **3 (três) Threads, conforme na imagem e tópico acima "Grupo de Usuários".**
 
@@ -148,7 +148,7 @@
 ![13_Ver_Arvore_Resultados](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/cc24c0cb-e778-44d1-8880-1211a15c3961)
 
 
-## Adicionar "Relatório de Sumário"
+## "Relatório de Sumário"
 
   - No grid da tela, na coluna **"Label"** é informado a quantidade de vezes em que foram realizados os "testes de login", neste caso foram 3 (três) testes, informados em **"Grupo de Usuários",** campo com o nome **Number of Threads (users).**
 
@@ -164,7 +164,7 @@
 
 
 
-## Adicionar "Relatório de Agregado"
+## "Relatório de Agregado"
 
 ![15_Relatorio_Agregado](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/a8446fe7-b693-46bd-bdbd-7e122fab4541)
 
@@ -208,10 +208,15 @@
 
 - API REST conversão da Collection ou das Requisiçõe selecionadas do Postman (Loadium, Code) para o Apache JMeter, Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
 
+
 ## Estrutura do Projeto "API_REST"
 
-
 ![01_Estrutura_Projeto_API_REST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/85ecbaf0-dad7-4f31-95b4-a30eb5966f4c)
+
+
+# Relatório de Sumário da Execução
+
+![02_Relatório_Sumario](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/3a923d38-897d-42bb-bb98-cacfab614584)
 
 
 **Documentação em construção ...**
