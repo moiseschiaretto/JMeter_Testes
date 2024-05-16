@@ -199,6 +199,7 @@
 ![05_Relatorio_Agregado_30_Threads](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/3c3ca425-cf65-4068-a847-4e4b4a5ac175)
 
 
+
 ## Projeto 2 (dois) - "API REST"
 
 - Autor Moisés Ademir Chiaretto
@@ -206,6 +207,12 @@
 - Descrição das explicações de cada item da 'estrutura do projeto "API REST" desenvolvido' em Apache JMeter.
 
 - API REST conversão da Collection ou das Requisiçõe selecionadas do Postman (Loadium, Code) para o Apache JMeter, Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
+
+## Estrutura do Projeto "API_REST"
+
+
+![01_Estrutura_Projeto_API_REST](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/85ecbaf0-dad7-4f31-95b4-a30eb5966f4c)
+
 
 **Documentação em construção ...**
 
