@@ -227,8 +227,3 @@ https://jmeter.apache.org
 ## Relatório de Sumário da Execução
 
 ![03_Relatório_Sumario](https://github.com/moiseschiaretto/JMeter_Testes/assets/84775466/f5c19afd-d3a2-4b05-a96f-a740f54fa7df)
-
-
-**Documentação em construção ...**
-
-
